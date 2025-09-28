@@ -2,7 +2,7 @@
 [VERSION 2]
     
 #### Full Basic Implementation of Tic-Tac-Toe:
-        - nxn GameBoard
+        - 3 x 3 GameBoard
         - 2 Local Players or vs AIs
         - menu
         - Replayable
