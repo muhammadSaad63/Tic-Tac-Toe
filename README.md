@@ -16,7 +16,7 @@
     *  Advanced Gameplay
     *  Menu
     *  Replayable
-    *  (n x n) GameBoard
+    *  (3 x 3) GameBoard
     *  3 Game Modes:
          (1)  Player vs Player
          (2)  Player vs AI
@@ -32,16 +32,16 @@
     * [Completed] 
 
 ### V3: Thalis
-    *  
+    *  (n x n) gameBoard
     *
     *
 
 ### V4: Rabi'
-    *  
+    *  filing
     *
     *
 
 ### V5: Khamis
-    *  
+    *  GUI
     *
     *

@@ -40,21 +40,21 @@ void mainMenu()
     }
 }
 
-void initializeGame(char player1Name[], char player2Name[], char *player1Symbol, char *player2Symbol)
+void initializeGame(char player1Name[], char player2Name[], char *player1SymbolPointer, char *player2SymbolPointer)
 {
     // for player 1
     printf("[Player 1]\n");
     printf(" > Enter your name: ");
     scanf("%s", player1Name);
     printf(" > Enter your symbol: ");
-    scanf(" %c", player1Symbol);   
+    scanf(" %c", player1SymbolPointer);   
 
     // for player 2
     printf("\n[Player 2]\n");
     printf(" > Enter your name: ");
     scanf("%s", player2Name);
     printf(" > Enter your symbol: ");
-    scanf(" %c", player2Symbol);
+    scanf(" %c", player2SymbolPointer);
 }
 
 void displayBoard(char boardToDisplay[], int boardSize)
@@ -174,14 +174,11 @@ int checkBoard(char boardToCheck[], char player1Symbol, char player2Symbol)
 
 int main()
 {
-
-
-
     char gameBoard[] = "000000000";
     char player1Name[15], player2Name[15];
     char player1Symbol, player2Symbol;
 
-    initializeGame(player1Name, player2Name);
+    initializeGame(player1Name, player2Name, &player1Symbol, &player2Symbol);
     displayBoard(gameBoard);
 
     int playerTurn = 0;
