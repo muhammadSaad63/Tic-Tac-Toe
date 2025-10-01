@@ -40,6 +40,9 @@
 ### V3: Thalis (ثالث)
     *  (n x n) gameBoard
     *  Basic miniMax and MiniMax AIs limited to (3x3) gameBoard
+    
+    * [Started]   S
+    * [Completed] 
 
 ### V4: Rabi' (رابع)
     *  file/files/filing.c/.h
@@ -51,12 +54,21 @@
     *  achievements
     *  replay
 
+    * [Started]   S
+    * [Completed] 
+
 ### V5: Khamis (خامس)
     *  GUI
     *  gui.c/.h
+
+    * [Started]   S
+    * [Completed] 
 
 ### V6: Sadis (سادس)
     *  Finalizing
     *  Finishing touches
     *  QOL changes
     *  Dark/Light Mode etc
+
+    * [Started]   S
+    * [Completed] 
