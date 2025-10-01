@@ -2,7 +2,7 @@
 **PF Lab Project**
 
 
-### V1: Awwal    
+### V1: Awwal (اول)    
     *  Basic Gameplay
     *  2 Local Players only
     *  (3 x 3) GameBoard
@@ -12,7 +12,7 @@
     *  [Started]   Sep 27th; 11:20
     *  [Completed] Sep 27th; 17:13
 
-### V2: Thani
+### V2: Thani (ثانی)
     *  Advanced Gameplay
     *  Menu
     *  Replayable
@@ -31,17 +31,22 @@
     * [Started]   Sep 27th; 17:50
     * [Completed] 
 
-### V3: Thalis
+### V3: Thalis (ثالث)
     *  (n x n) gameBoard
     *
     *
 
-### V4: Rabi'
+### V4: Rabi' (رابع)
     *  filing
     *
     *
 
-### V5: Khamis
+### V5: Khamis (خامس)
+    *  GUI
+    *
+    *
+
+### V6: Sadis (سادس)
     *  GUI
     *
     *
